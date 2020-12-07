@@ -24,7 +24,7 @@ pub(crate) fn part1() {
 }
 
 pub(crate) fn part2() {
-    println!("day 5 part 2");
+    println!("day 6 part 2");
 
     let num_yes_answers = FILE
         .split("\n\n")
